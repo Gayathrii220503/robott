@@ -1,0 +1,82 @@
+.head{
+    height:150px ;
+    width:200px ;
+    top:30px ;
+    left: 30px;
+    margin-top: 120px;
+    margin-left:600px ;
+    background-color:deeppink ;
+    border-radius:100px 100px 0px 0px ;
+    border:1.5px solid black ;
+}
+.eye1{
+    height:20px;
+    width:20px ;
+    top:220px;
+    left:650px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: aliceblue;
+}
+.eye2{
+    height:20px;
+    width:20px ;
+    top:220px;
+    left:750px;
+    border-radius: 100%;
+    position: absolute;
+    background-color: aliceblue;
+}
+.body{
+    height:200px;
+    width:198px ;
+    top:280px;
+    left:610px;
+    border-radius: 0px 0px 50px 50px;
+    position: absolute;
+    background-color: deeppink;
+    border: 1.5px solid black;
+
+}
+.rleg{
+    height:68px;
+    width:40px ;
+    top:198px;
+    left:38px;
+    border-radius: 0px 0px 50px 50px;
+    position: absolute;
+    background-color: deeppink;
+    border: 1.5px solid black;
+    z-index: -1;
+}
+.lleg{
+    height:70px;
+    width:39px ;
+    top:193px;
+    left:126px;
+    border-radius: 0px 0px 50px 50px;
+    position: absolute;
+    background-color: deeppink;
+    border: 1.5px solid black;
+    z-index: -1;
+}
+.rhand{
+    height:125px;
+    width:35px ;
+    top:290px;
+    left:565px;
+    border-radius: 50px 50px 50px 50px;
+    position: absolute;
+    background-color: deeppink;
+    border: 1.5px solid black;
+}
+.lhand{
+    height:127px;
+    width:35px ;
+    top:291px;
+    left:816px;
+    border-radius: 50px 50px 50px 50px;
+    position: absolute;
+    background-color: deeppink;
+    border: 1.5px solid black;
+}
